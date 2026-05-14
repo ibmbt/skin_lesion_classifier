@@ -41,3 +41,10 @@ Run the provided utility in your terminal in projext root folder with dataset in
 
 bash
 python rename_data.py
+
+## Running Instructions
+
+1. Zip the dataset/ folder and upload it to your Google Drive.
+2. Open the .ipynb notebook in Colab. 
+3. Run the initial cells to mount your Drive and extract the data directly into Colab's local high-speed storage (/content/).
+4. Execute the training loop using the T4 GPU runtime.
