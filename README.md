@@ -1,4 +1,3 @@
-# skin_lesion_classifier
 # Skin Condition and Lesion Classification
 
 This repository contains a PyTorch-based Convolutional Neural Network (CNN) designed to classify dermatological conditions. The pipeline processes raw image data to categorize skin textures into five distinct classes: Acne, Burns, Eczema, Bruises, and Healthy Skin.
