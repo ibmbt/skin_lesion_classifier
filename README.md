@@ -25,17 +25,18 @@ project_root/
 ├── Skin_Lesion_CNN.ipynb     # Main PyTorch notebook (Architecture, Training, Evaluation)
 └── README.md
 ```
+
 ## Setup and Preprocessing
 
-*1. Requirements and Installation*
+**1. Requirements and Installation**
 This project requires Python 3.8 or higher. To run the model and utilities locally, install the core PyTorch libraries via your terminal:
 
-bash
+```bash
 pip install torch torchvision
-
+```
 Note: No need if using colab to run this
 
-*2. Data Normalization*
+**2. Data Normalization**
 If you are modifying the dataset or adding your own images, ensure the file names are clean and sequentially numbered for PyTorch's ImageFolder loader. 
 Run the provided utility in your terminal in projext root folder with dataset in it:
 
