@@ -25,3 +25,7 @@ project_root/
 ├── Skin_Lesion_CNN.ipynb     # Main PyTorch notebook (Architecture, Training, Evaluation)
 └── README.md
 ```
+## Setup and Preprocessing
+
+*1. Requirements and Installation*
+This project requires Python 3.8 or higher. To run the model and utilities locally, install the core PyTorch libraries via your terminal:
