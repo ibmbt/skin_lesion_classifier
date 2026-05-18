@@ -8,6 +8,7 @@ To ensure the model learns from a robust variety of lighting conditions, skin to
 
 **Data Sources:**
 * Google Images
+* Reddit
 * Instagram
 * YouTube
 * Pinterest
